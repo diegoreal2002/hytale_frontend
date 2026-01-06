@@ -1,9 +1,13 @@
 import './App.css';
+import Navbar from './components/Navbar.js';
 
 function App() {
   return (
     <div className="App">
-      <h1>Hytale web</h1>
+      <Navbar/>
+      <main>
+        
+      </main>
     </div>
   );
 }
