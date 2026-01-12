@@ -2,8 +2,8 @@
 
 export default function Navbar() {
   return (
-    <div class="flex flex-col items-center text-center py-20 md:py-32 bg-[url('https://cdn.hytale.com/5e7ba0e950cbcd001176c63f_50___autumn_forest_biome_2.jpg')] bg-cover bg-center bg-no-repeat">
-        <h1 class="text-5xl md:text-6xl font-bold text-white my-8">🐉- Hytale Mythral</h1>
+    <div class="flex flex-col items-center text-center py-20 md:py-32 bg-[url('https://cdn.hytale.com/5e7ba4c63c9a2a00106793cc_128___simple_camp.jpg')] bg-cover bg-center bg-no-repeat backdrop-blur-xs">
+        <h1 class="text-5xl md:text-6xl font-bold text-white my-8">🐉- Dragons</h1>
         <p class="text-sm md:text-base text-white max-w-xl mb-6">
             Comunidad Oficial | Explora, juega y comparte🤝 Ambiente respetuoso y amigable🎲 Participa y Gana premios en eventos
         </p>
