@@ -31,7 +31,7 @@ export default function Navbar() {
                     </svg>
                 </span>
             </a>
-            <a class="inline-block rounded border border-indigo-600 bg-indigo-600 px-3 py-2 font-medium text-white transition-colors hover:bg-indigo-700" href="#">
+            <a class="inline-block rounded border border-indigo-600 bg-indigo-600 px-3 py-2 font-medium text-white transition-colors hover:bg-indigo-700">
                 ip server here!
             </a>      
         </div>
